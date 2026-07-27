@@ -51,9 +51,6 @@
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tennin00&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats" />
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tennin00&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="tennin00" />
-</p>
 </div>
 
 <br><br>
