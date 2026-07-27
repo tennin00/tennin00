@@ -20,7 +20,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I game and watch anime.
 
-<img alt="Coding Work From Home GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXMwNDVtaWZqZHR6enVoc2N5angwNmdlanZobGI1bG9iYWg2czYxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/> \
+<img alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2bTE0Z25yODEyY2w5eDd1dnk1ajFlOHFpcmU3YWRobmc2eHUwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/> \
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,15 +38,35 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tennin00&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tennin00&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tennin00&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats" />
+</p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tennin00&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="tennin00" />
+</p>
+<p>
+    &nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tennin00&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+</p> 
 </div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tennin00&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=tennin00&theme=juicyfresh&no-bg=true&count_private=true" />
+
+<br>
 
 ### 📫 Connect with me
 <p align="left">
