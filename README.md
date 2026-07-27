@@ -69,6 +69,6 @@
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:tennin00@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" />
+    <img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="Proton Mail" width="35" />
   </a>
 </p>
