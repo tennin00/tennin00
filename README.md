@@ -54,9 +54,6 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tennin00&show_icons=true&locale=en&layout=compact&langs_count=10&theme=chartreuse-dark&count_private=true" alt="tennin00" />
 </p>
-<p>
-    &nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tennin00&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</p> 
 </div>
 
 <br><br>
