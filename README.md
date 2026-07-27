@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFoc25naTV0cW84NzFkNTl2MTk4NzhtbHdkNHNqMjR2bWdmcXRqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fARC3iJZrP70VMefaN/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFoc25naTV0cW84NzFkNTl2MTk4NzhtbHdkNHNqMjR2bWdmcXRqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fARC3iJZrP70VMefaN/giphy.gif" alt="Banner" width="600" />
 </div>
 
 # 👋 Hey there! I'm Tennin
@@ -20,7 +20,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I game and watch anime.
 
-<img alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2bTE0Z25yODEyY2w5eDd1dnk1ajFlOHFpcmU3YWRobmc2eHUwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/> 
+<img alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2bTE0Z25yODEyY2w5eDd1dnk1ajFlOHFpcmU3YWRobmc2eHUwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="280" /> 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,6 +39,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+<br clear="both" />
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
@@ -63,8 +65,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tennin00&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=tennin00&theme=juicyfresh&no-bg=true&count_private=true" />
+<div align="center">
+  <p><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>GitHub Rank & Level</b></p>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tennin00?theme=chartreuse-dark" alt="GitHub Level Trophies" />
+</div>
 
 <br>
 
