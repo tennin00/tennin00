@@ -1,5 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFoc25naTV0cW84NzFkNTl2MTk4NzhtbHdkNHNqMjR2bWdmcXRqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fARC3iJZrP70VMefaN/giphy.gif" alt="Banner" width="100%" />
+</div>
 
+# 👋 Hey there! I'm Tennin
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tennin00&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 <!--
 **tennin00/tennin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
